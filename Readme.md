@@ -8,3 +8,9 @@ Run the following command:
 git clone https://github.com/Celine-Tamba-x-Ambe-Precious.git
 ## Project status
 Currently under development
+
+### Partner B - Ambe Precious
+I accepted the invitation to colaborate on the shared Github repository.
+I cloned the repositoy to local computer and pulled the latest changes.
+I modified the project file,commited my changes and pushed them to Github. I also
+participated in practising branch merging and resolving merge conflicts.
